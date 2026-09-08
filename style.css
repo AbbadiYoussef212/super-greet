@@ -22,3 +22,10 @@ div h2 {
     color: blue;
     
 }
+button {
+    width: 200px,
+        height: 60px,
+        font-size: 22px;
+    
+}
+}
